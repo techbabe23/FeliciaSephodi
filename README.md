@@ -1,10 +1,7 @@
 
-   **Hi, I’m Felicia 👋**
+   
+**Hey there!👋**
 
-   **I'm a Software Developer and technical writer. I enjoy speaking about my journey.🤣**
+I'm Felicia, a Software Developer who enjoys teaching people about technologies through writing and Instagram. I am a professional Technical Writer and I have quite an interest in UX design, i believe that in order for the frontend developer to truly understand the product they must have basic understanding of UX design.
 
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on open source 
-- 🌻 I'm interested in Tennis
-
-
+If you're trying to follow me through this journey, below are my social media links. See you there!

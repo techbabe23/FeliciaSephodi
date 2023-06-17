@@ -1,7 +1,7 @@
 
    
-<h1>Hey there! I'm Felicia👋</h1>
-<p>I'm a Software Engineer and Technical Writer from South Africa.</p>
+<h1>👋 Hey there! I'm Felicia 💖</h1>
+<p>I'm a Software Engineer and Technical Writer.</p>
 
 <h2>About me</h2>
 <ul>

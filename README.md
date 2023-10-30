@@ -1,27 +1,13 @@
 
    
-<h1>👋 Hey there! I'm Felicia 💖</h1>
-<p>I'm a Software Engineer and Technical Writer.</p>
+<h1>Welcome to Felicia's world 💖</h1>
+<p>Felicia Sephodi is a Software Engineer based in South Africa. She is passionate about simplifying complex technical concepts through creating content, mostly in the form of blog posts or tweets.
+   
+Felicia is an open-source contributor and a hackathon mentor and is currently contributing to the Good Docs Project. During her free time, when she's not doing tech stuff, Felicia enjoys a good psychological thriller or playing and watching a game of tennis.</p>
 
-<h2>About me</h2>
-<ul>
-<li>I'm currently taking an Artificial Intelligence class at Harvard Extension School for my undergraduate admission.</li>
-<li>I love playing tennis.</li>
-<li>I'm an avid reader, my favorite author is currently Freidda Mcfadden.</li>
-<li>I write technical articles and on different blogging platforms because they offer me variety.</li>
-<li>I'm currently creating my portfolio website from scratch and another project that is exciting.</li>
-<li>I'm an open source contributor</li>
-</ul>
-<h2>Languages and tools i enjoy</h2>
-JavaScript 
-
-
-
-
-
-<h2>Connect with me</h2>
-
-[Instagram](https://www.instagram.com/feliciasephodi)
+<h2> Would you like to connect with me? You can do so below 👇</h2>
+   
+[LinkedIn](https://www.linkedin.com/in/feliciasephodi)
 
 [Twitter](https://www.twitter.com/feliciasephodi)
 

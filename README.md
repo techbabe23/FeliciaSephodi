@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felicia</h1>
-<h3 align="center">A passionate Software Engineer and Technical Writer from South Africa.</h3>
+<h3 align="center">A passionate Software Engineer and Technical Writer.</h3>
 
 <p align="left"> <a href="https://twitter.com/feliciasephodi" target="blank"><img src="https://img.shields.io/twitter/follow/feliciasephodi?logo=twitter&style=for-the-badge" alt="feliciasephodi" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [feliciasephodi.hashnode.dev](feliciasephodi.hashnode.dev)
 
-- 💬 Ask me about **Technical documentation, .NET,& careers in tech**
+- 💬 Ask me about **Technical documentation, .NET,& the world of Frontend and data**
 
 - 📫 How to reach me **sephodifelicia@gmail.com**
 

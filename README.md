@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/feliciasephodi" target="blank"><img src="https://img.shields.io/twitter/follow/feliciasephodi?logo=twitter&style=for-the-badge" alt="feliciasephodi" /></a> </p>
 
-- 🔭 I’m currently working on **my website**
-
-- 🌱 I’m currently learning **Typescript**
-
 - 📝 I regularly write articles on [feliciasephodi.hashnode.dev](feliciasephodi.hashnode.dev)
 
 - 💬 Ask me about **Technical documentation, .NET,& the world of Frontend and data**
